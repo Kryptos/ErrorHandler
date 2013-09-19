@@ -1,7 +1,7 @@
 {
     "name": "kryptos/errorhandler",
     "description": "Beautifully designed error handler",
-    "keywords": ["log", "errorhandler", "custom error page", "error template"],
+    "keywords": [errorhandler", "custom error page", "error template"],
     "license": "MIT",
     "authors": [
         {
