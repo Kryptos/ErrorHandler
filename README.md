@@ -4,6 +4,14 @@ ErrorHandler
 Kryptos/ErrorHandler servers is an easy to use composer package that serves as a beautiful error handler.
 
 
+Setup
+-----
+Composer.json
+
+    "require": {
+        "kryptos/errorhandler": "dev-master"
+    }
+
 Usage
 -----
 ```php
