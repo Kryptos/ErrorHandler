@@ -6,10 +6,10 @@ Kryptos/ErrorHandler servers is an easy to use composer package that serves as a
 
 Usage
 -----
-//Instantiate class
 new \Kryptos\Handler\Error;
 
 //Code!
+
 if (1===1) {
     trigger_error('1 is equal to 1!');
 }
