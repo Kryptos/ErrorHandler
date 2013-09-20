@@ -28,8 +28,8 @@ trigger_error('1 is not equal to 1!', E_USER_ERROR);
 
 ## Contributors
 
-- [Christian Petersen](https://humanoidism.dk)
-- [Manuel Fernandez](https://prjrev.com)
+- [Christian Petersen](http://humanoidism.dk)
+- [Manuel Fernandez](http://prjrev.com)
 
 ## License
 
